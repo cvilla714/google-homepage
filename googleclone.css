@@ -9,7 +9,7 @@
 .grid-container{
    
     height: 100vh;
-    /**border: 10px solid #14a76c;**/
+   /**border: 10px solid #14a76c;**/
     display: grid;
     grid-template:
    "header header header" 75px
@@ -21,8 +21,8 @@
 
 .grid-item {
 
-   /**background-color: #ccc;;**/
-   /**border: 4px solid #ff652f;**/
+   /**background-color: #ccc;;
+   border: 4px solid #ff652f;**/
    padding: 20px;
    
 }
