@@ -224,3 +224,31 @@ input[type="search"] {
    
    text-decoration: underline;
 }
+
+@media (max-width:600px) {
+ .img{
+    width:480px;
+    height:195px;
+    
+ }  
+}
+@media (max-width:600px) {
+ #search-box {
+    width: 385px;
+    height:35px;
+ }
+}
+
+@media (max-width:600px) {
+   #microf {
+      padding-right: 500px;
+   }
+
+}
+
+@media (max-width:600px) {
+   #mag {
+      padding-right: 420px;
+   }
+
+}
